@@ -12,4 +12,4 @@ Pequeño proyecto para el curso de Educación IT. Maquetación web con CSS, men�
 - [https://gabrielfeldman.github.io/natatorio-web-design/](https://gabrielfeldman.github.io/natatorio-web-design/)
 
 ## Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+Este proyecto no necesita de instalación. 
